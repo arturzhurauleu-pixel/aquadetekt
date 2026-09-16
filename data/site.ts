@@ -8,7 +8,7 @@ export const site = {
   krs: "0000771259",
   regon: "382564778",
   domain: "https://[DOMENA].pl",
-  phone: "[NUMER TELEFONU]",
+  phone: "+48 512 433 421",
   phoneHref: "tel:+48000000000", // PLACEHOLDER
   email: "[EMAIL]",
   address: {
