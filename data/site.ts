@@ -9,7 +9,7 @@ export const site = {
   regon: "382564778",
   domain: "https://[DOMENA].pl",
   phone: "+48 512 433 421",
-  phoneHref: "tel:+48000000000", // PLACEHOLDER
+  phoneHref: "tel:+48512433421", // PLACEHOLDER
   email: "[EMAIL]",
   address: {
     street: "[ADRES]",
