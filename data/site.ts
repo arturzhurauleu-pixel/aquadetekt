@@ -12,15 +12,15 @@ export const site = {
   phoneHref: "tel:+48512433421", // PLACEHOLDER
   email: "[EMAIL]",
   address: {
-    street: "[ADRES]",
-    city: "[MIASTO SIEDZIBY]", // np. Gdańsk
-    postalCode: "[KOD POCZTOWY]",
+    street: "UL. BOHATERÓW MONTE CASSINO 36 lok. 5",
+    city: "Sopot", // np. Gdańsk
+    postalCode: "81-759",
     region: "pomorskie",
     country: "PL",
   },
   // Ustaw na true dopiero gdy dostępność 24/7 jest faktycznie potwierdzona
   isAvailable247: false,
-  openingHours: "[GODZINY DZIAŁANIA]", // np. "Pon–Pt 7:00–20:00, dyżur telefoniczny całodobowy"
+  openingHours: "Całodobowo 24/7", // np. "Pon–Pt 7:00–20:00, dyżur telefoniczny całodobowy"
   googleBusinessProfileUrl: "[LINK DO GOOGLE BUSINESS PROFILE]",
   googleMapsEmbedUrl: "[LINK DO MAPY GOOGLE]",
   serviceAreaRegion: "województwo pomorskie",
